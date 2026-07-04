@@ -1,0 +1,6 @@
+{
+  "name": "SmartChef AI",
+  "description": "An AI-powered meal planner that generates personalized daily meal plans, recipes, and grocery lists based on your ingredients, budget, and dietary needs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
